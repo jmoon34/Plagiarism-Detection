@@ -1,0 +1,897 @@
+<html>
+ <head>
+  <title>
+   Fermat - 17th Century Mathematics - The Story of Mathematics
+  </title>
+  <meta content="The Story of Mathematics - 17th Century Mathematics - Fermat" name="description"/>
+  <meta content="17th Century Mathematics,17th Century Mathematician,Fermat,Pierre de Fermat,number theory,theorems,Fermat's Last Theorem,Fermat's Little Theorem,maxima,minima,calculus,Fermat numbers,Fermat primes,History of Mathematics,History of Math,History of Maths" name="keywords"/>
+  <link href="stylesheet.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="favicon.ico" rel="shortcut icon"/>
+  <script language="JavaScript" src="random_image.js" type="text/javascript">
+  </script>
+  <script language="JavaScript" src="menu.js" type="text/javascript">
+  </script>
+  <script src="jquery.js" type="text/javascript">
+  </script>
+ </head>
+ <body alink="#503402" background="images/bg.jpg" bgcolor="#FEE1A7" leftmargin="0" link="#946300" marginheight="0" marginwidth="0" text="#000000" topmargin="0" vlink="#946300">
+  <a name="Top">
+  </a>
+  <table align="CENTER" bgcolor="#000000" border="0" cellpadding="0" cellspacing="0" width="902">
+   <form action="cgi-bin/ksearch.cgi" method="get" name="form1">
+    <tr>
+     <td align="center" bgcolor="#000000" valign="top" width="1">
+      <img border="0" height="1" src="images/transparent_blank.gif" width="1"/>
+      <br/>
+     </td>
+     <td align="center" valign="top" width="900">
+      <table align="CENTER" border="0" cellpadding="0" cellspacing="0" width="900">
+       <tr>
+        <td align="center" valign="top" width="700">
+         <img alt="The Story of Mathematics" border="0" height="130" src="images/logo.gif" width="700"/>
+         <br/>
+        </td>
+        <td align="right" valign="bottom" width="200">
+         <input id="tips" name="terms" onfocus="select(this);" size="13" type="text" value=""/>
+         <input align="absmiddle" border="0" height="22" src="images/search.gif" type="image" value="SEARCH" width="57"/>
+         <input name="showm" type="hidden" value="3"/>
+         <input name="all" type="hidden" value="0"/>
+         <input name="c" type="hidden" value="n"/>
+         <input name="w" type="hidden" value="1"/>
+         <input name="st" type="hidden" value="0"/>
+         <input name="sort" type="hidden" value="Matches"/>
+         <input name="display" type="hidden" value="10"/>
+         <input name="b" type="hidden" value="1"/>
+         <input name="t" type="hidden" value="1"/>
+         <input name="u" type="hidden" value="1"/>
+         <input name="alt" type="hidden" value="1"/>
+         <input name="l" type="hidden" value="1"/>
+         <input name="default" type="hidden" value="1"/>
+         <input name="d" type="hidden" value="1"/>
+         <input name="k" type="hidden" value="1"/>
+         <input name="au" type="hidden" value="1"/>
+         <img border="0" height="5" src="images/transparent_blank.gif" width="200"/>
+         <br/>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td align="center" bgcolor="#000000" valign="top" width="1">
+      <img border="0" height="1" src="images/transparent_blank.gif" width="1"/>
+      <br/>
+     </td>
+    </tr>
+   </form>
+  </table>
+  <table align="CENTER" bgcolor="#313131" border="0" cellpadding="0" cellspacing="0" width="902">
+   <tr>
+    <td align="center" bgcolor="#000000" valign="top" width="1">
+     <img border="0" height="1" src="images/transparent_blank.gif" width="1"/>
+     <br/>
+    </td>
+    <td align="center" valign="top" width="900">
+     <a href="index.html" onmouseout="imgOff('img1')" onmouseover="imgOn('img1')">
+      <img alt="Home" border="0" height="30" name="img1" src="images/menu_home.gif" width="100"/>
+     </a>
+     <a href="story.html" onmouseout="imgOff('img2')" onmouseover="imgOn('img2')">
+      <img alt="The Story of Mathematics" border="0" height="30" name="img2" src="images/menu_story.gif" width="150"/>
+     </a>
+     <a href="mathematicians.html" onmouseout="imgOff('img3')" onmouseover="imgOn('img3')">
+      <img alt="List of Important Mathematicians" border="0" height="30" name="img3" src="images/menu_mathematicians.gif" width="240"/>
+     </a>
+     <a href="glossary.html" onmouseout="imgOff('img4')" onmouseover="imgOn('img4')">
+      <img alt="Glossary of Mathematical Terms" border="0" height="30" name="img4" src="images/menu_glossary.gif" width="150"/>
+     </a>
+     <a href="sources.html" onmouseout="imgOff('img5')" onmouseover="imgOn('img5')">
+      <img alt="Sources" border="0" height="30" name="img5" src="images/menu_sources.gif" width="135"/>
+     </a>
+     <a href="mailto:lukem@lukemastin.com" onmouseout="imgOff('img6')" onmouseover="imgOn('img6')">
+      <img alt="Contact" border="0" height="30" name="img6" src="images/menu_contact.gif" width="125"/>
+     </a>
+     <br/>
+    </td>
+    <td align="center" bgcolor="#000000" valign="top" width="1">
+     <img border="0" height="1" src="images/transparent_blank.gif" width="1"/>
+     <br/>
+    </td>
+   </tr>
+  </table>
+  <table align="CENTER" bgcolor="#CCCCCC" border="0" cellpadding="0" cellspacing="0" width="902">
+   <tr>
+    <td align="center" bgcolor="#000000" valign="top" width="1">
+     <img border="0" height="1" src="images/transparent_blank.gif" width="1"/>
+     <br/>
+    </td>
+    <td align="center" valign="top" width="900">
+     <img border="0" height="10" src="images/transparent_blank.gif" width="900"/>
+     <br/>
+    </td>
+    <td align="center" bgcolor="#000000" valign="top" width="1">
+     <img border="0" height="1" src="images/transparent_blank.gif" width="1"/>
+     <br/>
+    </td>
+   </tr>
+  </table>
+  <table align="CENTER" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" width="902">
+   <tr>
+    <td align="center" bgcolor="#000000" valign="top" width="1">
+     <img border="0" height="1" src="images/transparent_blank.gif" width="1"/>
+     <br/>
+    </td>
+    <td align="center" valign="top" width="900">
+     <script language="JavaScript">
+      <!--
+// ==============================================
+// Copyright 2003 by jsCode.com
+// Source: jsCode.com
+// Author: etLux
+// Free for all; but please leave in the header.
+// ==============================================
+showImage();
+//-->
+     </script>
+    </td>
+    <td align="center" bgcolor="#000000" valign="top" width="1">
+     <img border="0" height="1" src="images/transparent_blank.gif" width="1"/>
+     <br/>
+    </td>
+   </tr>
+  </table>
+  <table align="CENTER" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" width="902">
+   <tr>
+    <td align="center" bgcolor="#000000" valign="top" width="1">
+     <img border="0" height="1" src="images/transparent_blank.gif" width="1"/>
+     <br/>
+    </td>
+    <td align="center" bgcolor="#FEE1A7" valign="top" width="5">
+     <img border="0" height="1" src="images/transparent_blank.gif" width="5"/>
+     <br/>
+    </td>
+    <td align="left" bgcolor="#FEE1A7" valign="top" width="240">
+     <img border="0" height="1" src="images/transparent_blank.gif" width="220"/>
+     <br/>
+     <font face="Arial,Helvetica,Sans Serif" size="3">
+      <p>
+       <b>
+        <a class="menu" href="story.html">
+         The Story of Mathematics
+        </a>
+       </b>
+      </p>
+     </font>
+     <font face="Arial,Helvetica,Sans Serif" size="2">
+      <ul id="navigation">
+       <li>
+        <a class="menu" href="prehistoric.html">
+         Prehistoric Mathematics
+        </a>
+       </li>
+       <li>
+        <a class="menu" href="sumerian.html">
+         Sumerian/Babylonian Mathematics
+        </a>
+       </li>
+       <li>
+        <a class="menu" href="egyptian.html">
+         Egyptian Mathematics
+        </a>
+       </li>
+       <li>
+        <a class="menu" href="greek.html">
+         Greek Mathematics
+        </a>
+        <ul>
+         <li>
+          <a class="menu" href="greek_pythagoras.html">
+           Pythagoras
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="greek_plato.html">
+           Plato
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a class="menu" href="hellenistic.html">
+         Hellenistic Mathematics
+        </a>
+        <ul>
+         <li>
+          <a class="menu" href="hellenistic_euclid.html">
+           Euclid
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="hellenistic_archimedes.html">
+           Archimedes
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="hellenistic_diophantus.html">
+           Diophantus
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a class="menu" href="roman.html">
+         Roman Mathematics
+        </a>
+       </li>
+       <li>
+        <a class="menu" href="mayan.html">
+         Mayan Mathematics
+        </a>
+       </li>
+       <li>
+        <a class="menu" href="chinese.html">
+         Chinese Mathematics
+        </a>
+       </li>
+       <li>
+        <a class="menu" href="indian.html">
+         Indian Mathematics
+        </a>
+        <ul>
+         <li>
+          <a class="menu" href="indian_brahmagupta.html">
+           Brahmagupta
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="indian_madhava.html">
+           Madhava
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a class="menu" href="islamic.html">
+         Islamic Mathematics
+        </a>
+        <ul>
+         <li>
+          <a class="menu" href="islamic_alkhwarizmi.html">
+           Al-Khwarizmi
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a class="menu" href="medieval.html">
+         Medieval European Mathematics
+        </a>
+        <ul>
+         <li>
+          <a class="menu" href="medieval_fibonacci.html">
+           Fibonacci
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a class="menu" href="16th.html">
+         16th Century Mathematics
+        </a>
+        <ul>
+         <li>
+          <a class="menu" href="16th_tartaglia.html">
+           Tartaglia, Cardano and Ferrari
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a class="menu" href="17th.html">
+         17th Century Mathematics
+        </a>
+        <ul>
+         <li>
+          <a class="menu" href="17th_descartes.html">
+           Descartes
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="17th_fermat.html">
+           Fermat
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="17th_pascal.html">
+           Pascal
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="17th_newton.html">
+           Newton
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="17th_leibniz.html">
+           Leibniz
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a class="menu" href="18th.html">
+         18th Century Mathematics
+        </a>
+        <ul>
+         <li>
+          <a class="menu" href="18th_bernoulli.html">
+           Bernoulli Brothers
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="18th_euler.html">
+           Euler
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a class="menu" href="19th.html">
+         19th Century Mathematics
+        </a>
+        <ul>
+         <li>
+          <a class="menu" href="19th_galois.html">
+           Galois
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="19th_gauss.html">
+           Gauss
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="19th_bolyai.html">
+           Bolyai and Lobachevsky
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="19th_riemann.html">
+           Riemann
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="19th_boole.html">
+           Boole
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="19th_cantor.html">
+           Cantor
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="19th_poincare.html">
+           Poincaré
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a class="menu" href="20th.html">
+         20th Century Mathematics
+        </a>
+        <ul>
+         <li>
+          <a class="menu" href="20th_hardy.html">
+           Hardy and Ramanujan
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="20th_russell.html">
+           Russell and Whitehead
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="20th_hilbert.html">
+           Hilbert
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="20th_godel.html">
+           Gödel
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="20th_turing.html">
+           Turing
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="20th_weil.html">
+           Weil
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="20th_cohen.html">
+           Cohen
+          </a>
+         </li>
+         <li>
+          <a class="menu" href="20th_robinson.html">
+           Robinson and Matiyasevich
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+      <br/>
+      <b>
+       <a class="menu" href="mathematicians.html">
+        List of Important Mathematicians
+       </a>
+      </b>
+      <br/>
+      <br/>
+      <b>
+       <a class="menu" href="glossary.html">
+        Glossary of Mathematical Terms
+       </a>
+      </b>
+      <br/>
+      <br/>
+      <b>
+       <a class="menu" href="sources.html">
+        Sources
+       </a>
+      </b>
+      <br/>
+      <br/>
+      <b>
+       <a class="menu" href="mailto:lukem@lukemastin.com">
+        Contact
+       </a>
+      </b>
+      <br/>
+      <br/>
+     </font>
+    </td>
+    <td align="center" bgcolor="#FEE1A7" valign="top" width="5">
+     <img border="0" height="1" src="images/transparent_blank.gif" width="5"/>
+     <br/>
+    </td>
+    <td align="center" bgcolor="#FFFFFF" valign="top" width="7">
+     <img border="0" height="1" src="images/transparent_blank.gif" width="7"/>
+     <br/>
+    </td>
+    <td valign="top" width="635">
+     <img border="0" height="1" src="images/transparent_blank.gif" width="635"/>
+     <br/>
+     <font face="Arial,Helvetica,Sans Serif" size="2">
+      <!-- Main text here -->
+      <p>
+       <b>
+        <font color="#946300" size="4">
+         <img align="ABSMIDDLE" border="0" height='20"' src="images/arrow.gif" width="20"/>
+         17TH CENTURY MATHEMATICS - FERMAT
+        </font>
+       </b>
+      </p>
+      <!-- Start of Inset Table -->
+      <table align="RIGHT" border="0" cellpadding="2" cellspacing="0" width="204">
+       <tr>
+        <td align="CENTER" bgcolor="#946300" valign="TOP">
+         <img alt="Pierre de Fermat" border="0" height="268" src="images2/fermat.jpg" width="200"/>
+         <br/>
+        </td>
+       </tr>
+       <tr>
+        <td align="CENTER" bgcolor="#FFFFFF" valign="TOP">
+         <font face="Times New Roman,Times,Serif" size="2">
+          <i>
+           <img border="0" height="4" src="images/transparent_blank.gif" width="1"/>
+           <br/>
+           Pierre de Fermat (1601-1665)
+           <br/>
+           <img border="0" height="4" src="images/transparent_blank.gif" width="1"/>
+           <br/>
+          </i>
+         </font>
+        </td>
+       </tr>
+      </table>
+      <!-- End of Inset Table -->
+      <p>
+       Another Frenchman of the 17th Century, Pierre de Fermat, effectively invented modern number theory virtually single-handedly, despite being a small-town amateur mathematician. Stimulated and inspired by the “Arithmetica” of the
+       <a href="hellenistic.html">
+        Hellenistic
+       </a>
+       mathematician
+       <a href="hellenistic_diophantus.html">
+        Diophantus
+       </a>
+       , he went on to discover several new patterns in numbers which had defeated mathematicians for centuries, and throughout his life he devised a wide range of conjectures and theorems. He is also given credit for early developments that led to modern calculus, and for early progress in probability theory.
+      </p>
+      <p>
+       Although he showed an early interest in mathematics, he went on study law at Orléans and received the title of councillor at the High Court of Judicature in Toulouse in 1631, which he held for the rest of his life. He was fluent in Latin, Greek, Italian and Spanish, and was praised for his written verse in several languages, and eagerly sought for advice on the emendation of Greek texts.
+       <p>
+        <p>
+         Fermat's mathematical work was communicated mainly in letters to friends, often with little or no proof of his theorems. Although he himself claimed to have proved all his arithmetic theorems, few records of his proofs have survived, and many mathematicians have doubted some of his claims, especially given the difficulty of some of the problems and the limited mathematical tools available to Fermat.
+        </p>
+        <!-- Start of Inset Table -->
+        <table align="RIGHT" border="0" cellpadding="2" cellspacing="0" width="404">
+         <tr>
+          <td align="CENTER" bgcolor="#946300" valign="TOP">
+           <img alt="Fermat’s  Theorem on Sums of Two Squares" border="0" height="370" src="images2/fermat_two_square.gif" width="400"/>
+           <br/>
+          </td>
+         </tr>
+         <tr>
+          <td align="CENTER" bgcolor="#FFFFFF" valign="TOP">
+           <font face="Times New Roman,Times,Serif" size="2">
+            <i>
+             <img border="0" height="4" src="images/transparent_blank.gif" width="1"/>
+             <br/>
+             Fermat’s  Theorem on Sums of Two Squares
+             <br/>
+             <img border="0" height="4" src="images/transparent_blank.gif" width="1"/>
+             <br/>
+            </i>
+           </font>
+          </td>
+         </tr>
+        </table>
+        <!-- End of Inset Table -->
+        <p>
+         One example of his many theorems is the Two Square Theorem, which shows that any prime number which, when divided by 4, leaves a remainder of 1 (i.e. can be written in the form 4
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           n
+          </i>
+         </font>
+         + 1), can always be re-written as the sum of two square numbers (see image at right for examples).
+        </p>
+        <p>
+         His so-called Little Theorem is often used in the testing of large prime numbers, and is the basis of the codes which protect our credit cards in Internet transactions today. In simple (sic) terms, it says that if we have two numbers
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           a
+          </i>
+         </font>
+         and
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           p
+          </i>
+         </font>
+         , where
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           p
+          </i>
+         </font>
+         is a prime number and not a factor of
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           a
+          </i>
+         </font>
+         , then
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           a
+          </i>
+         </font>
+         multiplied by itself
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           p
+          </i>
+         </font>
+         -1 times and then divided by
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           p
+          </i>
+         </font>
+         , will always leave a remainder of 1. In mathematical terms, this is written:
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           a
+          </i>
+         </font>
+         <sup>
+          <font face="Times New Roman,Times,Serif">
+           <i>
+            p
+           </i>
+          </font>
+          -1
+         </sup>
+         = 1(mod
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           p
+          </i>
+         </font>
+         ). For example, if
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           a
+          </i>
+         </font>
+         = 7 and
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           p
+          </i>
+         </font>
+         = 3, then 7
+         <sup>
+          2
+         </sup>
+         ÷ 3 should leave a remainder of 1, and 49 ÷ 3 does in fact leave a remainder of 1.
+        </p>
+        <p>
+         Fermat identified a subset of numbers, now known as Fermat numbers, which are of the form of one less than 2 to the power of a power of 2, or, written mathematically, 2
+         <sup>
+          2
+          <sup>
+           <font face="Times New Roman,Times,Serif">
+            <i>
+             n
+            </i>
+           </font>
+          </sup>
+         </sup>
+         + 1. The first five such numbers are: 2
+         <sup>
+          1
+         </sup>
+         + 1 = 3; 2
+         <sup>
+          2
+         </sup>
+         + 1 = 5; 2
+         <sup>
+          4
+         </sup>
+         + 1 = 17; 2
+         <sup>
+          8
+         </sup>
+         + 1 = 257; and 2
+         <sup>
+          16
+         </sup>
+         + 1 = 65,537. Interestingly, these are all prime numbers (and are known as Fermat primes), but all the higher Fermat numbers which have been painstakingly identified over the years are NOT prime numbers, which just goes to to show the value of inductive proof in mathematics.
+        </p>
+        <!-- Start of Inset Table -->
+        <table align="RIGHT" border="0" cellpadding="2" cellspacing="0" width="404">
+         <tr>
+          <td align="CENTER" bgcolor="#946300" valign="TOP">
+           <img alt="Fermat’s  Last Theorem" border="0" height="310" src="images2/fermat_last_theorem.gif" width="400"/>
+           <br/>
+          </td>
+         </tr>
+         <tr>
+          <td align="CENTER" bgcolor="#FFFFFF" valign="TOP">
+           <font face="Times New Roman,Times,Serif" size="2">
+            <i>
+             <img border="0" height="4" src="images/transparent_blank.gif" width="1"/>
+             <br/>
+             Fermat’s  Last Theorem
+             <br/>
+             <img border="0" height="4" src="images/transparent_blank.gif" width="1"/>
+             <br/>
+            </i>
+           </font>
+          </td>
+         </tr>
+        </table>
+        <!-- End of Inset Table -->
+        <p>
+         Fermat's pièce de résistance, though, was his famous Last Theorem, a conjecture left unproven at his death, and which puzzled mathematicians for over 350 years. The theorem, originally described in a scribbled note in the margin of his copy of
+         <a href="hellenistic_diophantus.html">
+          Diophantus
+         </a>
+         ' “Arithmetica”, states that no three positive integers
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           a
+          </i>
+         </font>
+         ,
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           b
+          </i>
+         </font>
+         and
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           c
+          </i>
+         </font>
+         can satisfy the equation
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           a
+          </i>
+         </font>
+         <sup>
+          <font face="Times New Roman,Times,Serif">
+           <i>
+            n
+           </i>
+          </font>
+         </sup>
+         +
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           b
+          </i>
+         </font>
+         <sup>
+          <font face="Times New Roman,Times,Serif">
+           <i>
+            n
+           </i>
+          </font>
+         </sup>
+         =
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           c
+          </i>
+         </font>
+         <sup>
+          <font face="Times New Roman,Times,Serif">
+           <i>
+            n
+           </i>
+          </font>
+         </sup>
+         for any integer value of
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           n
+          </i>
+         </font>
+         greater than two (i.e. squared). This seemingly simple conjecture has proved to be one of the world’s hardest mathematical problems to prove.
+        </p>
+        <p>
+         There are clearly many solutions - indeed, an infinite number - when
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           n
+          </i>
+         </font>
+         = 2 (namely, all the Pythagorean triples), but no solution could be found for cubes or higher powers. Tantalizingly, Fermat himself claimed to have a proof, but wrote that “this margin is too small to contain it”. As far as we know from the papers which have come down to us, however, Fermat only managed to partially prove the theorem for the special case of
+         <font face="Times New Roman,Times,Serif">
+          <i>
+           n
+          </i>
+         </font>
+         = 4, as did several other mathematicians who applied themselves to it (and indeed as had earlier mathematicians dating back to
+         <a href="medieval_fibonacci.html">
+          Fibonacci
+         </a>
+         , albeit not with the same intent).
+        </p>
+        <p>
+         Over the centuries, several mathematical and scientific academies offered substantial prizes for a proof of the theorem, and to some extent it single-handedly stimulated the development of algebraic number theory in the 19th and 20th Centuries. It was finally proved for ALL numbers only in 1995 (a proof usually attributed to British mathematician Andrew Wiles, although in reality it was a joint effort of several steps involving many mathematicians over several years). The final proof made use of complex modern mathematics, such as the modularity theorem for semi-stable elliptic curves, Galois representations and Ribet’s epsilon theorem, all of which were unavailable in Fermat’s time, so it seems clear that Fermat's claim to have solved his last theorem was almost certainly an exaggeration (or at least a misunderstanding).
+        </p>
+        <p>
+         In addition to his work in number theory, Fermat anticipated the development of calculus to some extent, and his work in this field was invaluable later to
+         <a href="17th_newton.html">
+          Newton
+         </a>
+         and
+         <a href="17th_leibniz.html">
+          Leibniz
+         </a>
+         . While investigating a technique for finding the centres of gravity of various plane and solid figures, he developed a method for determining maxima, minima and tangents to various curves that was essentially equivalent to differentiation. Also, using an ingenious trick, he was able to reduce the integral of general power functions to the sums of geometric series.
+        </p>
+        <p>
+         Fermat’s correspondence with his friend
+         <a href="17th_pascal.html">
+          Pascal
+         </a>
+         also helped mathematicians grasp a very important concept in basic probability which, although perhaps intuitive to us now, was revolutionary in 1654, namely the idea of equally probable outcomes and expected values.
+         <br clear="ALL"/>
+        </p>
+        <!-- End of Main Text -->
+        <!-- Previous Next Links -->
+        <table align="CENTER" bgcolor="#FFF3D9" border="0" cellpadding="5" cellspacing="0" width="635">
+         <tr>
+          <td align="LEFT" valign="TOP" width="50%">
+           <font face="Arial,Helvetica,Sans Serif" size="2">
+            <a href="17th_descartes.html">
+             &lt;&lt; Back to Descartes
+            </a>
+            <br/>
+           </font>
+          </td>
+          <td align="RIGHT" valign="TOP" width="50%">
+           <font face="Arial,Helvetica,Sans Serif" size="2">
+            <a href="17th_pascal.html">
+             Forward to Pascal &gt;&gt;
+            </a>
+            <br/>
+           </font>
+          </td>
+         </tr>
+        </table>
+        <!-- End of Previous Next Links -->
+       </p>
+      </p>
+     </font>
+     <!--    Start of End Text Menu       -->
+     <center>
+      <font face="Arial,Helvetica,Sans Serif" size="1">
+       <b>
+        <br/>
+        <a href="#Top">
+         Back to Top of Page
+        </a>
+        <br/>
+        <a href="index.html">
+         Home
+         <a>
+          |
+          <a href="story.html">
+           The Story of Mathematics
+          </a>
+          |
+          <a href="mathematicians.html">
+           List of Important Mathematicians
+          </a>
+          |
+          <a href="glossary.html">
+           Glossary of Mathematical Terms
+          </a>
+          |
+          <a href="sources.html">
+           Sources
+          </a>
+          |
+          <a href="mailto:lukem@lukemastin.com">
+           Contact
+          </a>
+         </a>
+        </a>
+       </b>
+      </font>
+     </center>
+     <br/>
+     <center>
+      <font color="#666666" face="Arial,Helvetica,Sans Serif" size="1">
+       <b>
+        © 2010 Luke Mastin
+        <br/>
+        <br/>
+       </b>
+      </font>
+     </center>
+     <!--    End of End Text Menu       -->
+    </td>
+    <td align="center" bgcolor="#FFFFFF" valign="top" width="8">
+     <img border="0" height="1" src="images/transparent_blank.gif" width="8"/>
+     <br/>
+    </td>
+    <td align="center" bgcolor="#000000" valign="top" width="1">
+     <img border="0" height="1" src="images/transparent_blank.gif" width="1"/>
+     <br/>
+    </td>
+   </tr>
+  </table>
+  <table align="CENTER" bgcolor="#CCCCCC" border="0" cellpadding="0" cellspacing="0" width="902">
+   <tr>
+    <td align="center" bgcolor="#000000" valign="top" width="1">
+     <img border="0" height="1" src="images/transparent_blank.gif" width="1"/>
+     <br/>
+    </td>
+   </tr>
+  </table>
+  <br/>
+  <!-- Menu script: Futura MD BT -->
+ </body>
+</html>

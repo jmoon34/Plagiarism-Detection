@@ -1,0 +1,114 @@
+famous scientists
+
+pierre de fermat was one of the greatest mathematicians in history, making highly significant contributions to a wide range of mathematical topics. he was a guiding light in the invention of calculus; he independently co-invented analytic geometry; he invented probability theory in cooperation with blaise pascal, and made masterful contributions to number theory. 
+he is best remembered for his last theorem, the proof of which defied the best efforts of mathematicians for over three centuries.
+pierre fermat was born in beaumont-de-lomagne, in southern france in late 1607 or early 1608. he was once thought to have been born in 1601, but this was a different pierre de fermat – a half-brother who died in infancy.
+pierre’s father was dominique fermat, a successful and wealthy businessman who dealt in agricultural products such as wheat, wine, cattle, and animal hides. his mother was claire de long, who came from an aristocratic family. she died when pierre was seven years old
+to discuss pierre fermat’s early education would be mere speculation, because no records exist.
+with wealthy, aristocratic parents, young pierre fermat probably received an excellent education, and he had a gift for languages; he was fluent in classical greek, latin, italian, spanish, and occitan.
+starting in 1623 he studied civil law at the university of orléans, graduating in 1626 when he was only 18.
+aged 19, he moved to the city of bordeaux where he became an attorney in the high court. he also started doing some high level mathematics
+when he was 20, in 1628, his father died, leaving fermat a very large inheritance. 
+fermat did not go mad with his new found wealth. he continued working as an attorney and continued with his mathematics.
+in 1630, when he was 22 or 23 years old, fermat paid a huge sum of money (over a million dollars in today’s terms) to get a senior legal position in the high court of toulouse. this was a job for life. he also became a nobleman. he could now use the aristocratic name pierre de fermat rather than simply pierre fermat.
+in june 1631, aged 23, fermat married his cousin louise de long. she was only 15 years old. another month would pass before she celebrated her sixteenth birthday.
+the couple had eight children, five of whom survived to adulthood.
+fermat was passionate about mathematics and he was a brilliant mathematician. nevertheless, mathematics was always just a hobby reserved for his spare time. unlike a modern mathematician, who publishes his or her work at every opportunity, fermat did not publish his work. 
+most of what we know about his mathematics comes from his correspondence with other mathematicians or was found in his notes after his death.
+he worked on mathematics seriously from about 1627 to the 1660s. there was a lull between 1643 and 1654 when a combination of pressure of work, civil war, and plague (which almost killed him) kept him largely out of mathematical action. 
+fermat’s interest in high-level mathematics first emerged when he was a 19 year-old attorney beginning his legal career in bordeaux in 1627. there he became firm friends with etienne d’espagnet, who had inherited a library of important books including some mathematical works. fermat was particularly interested in works by franciscus vieta, a french mathematician who had made important improvements to algebra.
+following his study of vieta’s work, and of treatises written by archimedes, the 21 year-old fermat made his first important contributions to mathematics in 1629, with new methods of finding maxima, minima, and tangents.
+marin mersenne. fermat’s work became known to other mathematicians when marin mersenne distributed it to them. in paris a mathematician by the name of marin mersenne had been trying to encourage other mathematicians to communicate more openly.
+marin mersenne. fermat’s work became known to other mathematicians when marin mersenne distributed it to them.
+he hoped this would accelerate the development of mathematics.
+in 1636 he heard about fermat’s work and wrote to him asking for more details. 
+fermat replied, and his reply instantly convinced mersenne he was dealing with a mathematician of the first rank.
+fermat knew the works of ancient greek mathematicians such as euclid, diophantus, and archimedes backwards.
+archimedes, the greatest of the greek mathematicians – and perhaps the greatest ever – had a high opinion of himself as a mathematician, and rightly so. he was far ahead of his time. he was in the habit of teasing other mathematicians, asking them to prove things he had already proven, or sending them answers to questions and asking them if they could see how he had found his answer. in fairness, he eventually sent his friend eratosthenes the method in which he described the techniques he used to arrive at his answers.
+renaissance mathematicians such as fermat found themselves looking back to the brilliance of archimedes’ mathematics. they sought to understand it, and if they were good enough, add to it. fermat was more than good enough! 
+he developed wonderful new ideas – more of which soon – based on archimedes’ great work on spirals.
+mersenne in paris asked fermat for more details, which he provided – and then, just as archimedes would have done, he posed further problems and asked whether any of the mathematicians in paris could solve them. 
+when they could not, in 1638 fermat sent mersenne two manuscripts containing some of the new mathematics he had developed. these were method for determining maxima and minima and tangents for curved lines and introduction to plane and solid loci.
+he would not always be so generous in providing solutions to questions he posed!
+in method for determining maxima and minima and tangents for curved lines, inspired by his study of archimedean spirals and his work on parabolas and hyperbolas, fermat invented a powerful new method using what we can now recognize as differential calculus. he had actually done much of this work about 10 years earlier, when he was starting out in his legal career in bordeaux.
+fermat found a way to find the maximum points and minimum points of curves. he could also find the tangent to chosen points on a curve, which meant he could find the slope or gradient at points on a curved line.
+fermat also found a method of finding the area under power functions, which is the equivalent of applying integral calculus to these functions.
+although some people claim fermat invented calculus, it is fairer to say his calculus methods worked in special cases. he did not provide the general calculus for all curves in the way isaac newton and gottfried von leibniz did. 
+isaac newton wrote, however, that when he invented calculus he was guided by “monsieur fermat’s method of drawing tangents.”
+newton invented calculus during the 1660s. he found fermat’s work in pierre hérigone’s 1642 six-volume work courses in mathematics which included fermat’s method for determining maxima and minima and tangents for curved lines.
+it is therefore safe to say fermat was one of the most significant figures in the invention of calculus.
+furthermore, in the second of the works he sent to mersenne, introduction to plane and solid loci, fermat invented the new mathematical field of analytic geometry, showing how an equation from algebra could equally be described as a geometric curve. another french mathematician, rené descartes invented analytic geometry independently at the same time as fermat.
+fermat worked on mathematics for sheer pleasure. he lived in a time when most people had no use for mathematics. one exception to this was professional gamblers, who needed to have some idea of when it would be in their favor to bet on something.
+in 1654, blaise pascal wrote to fermat describing gambling problems. 
+in 1654 blaise pascal asked fermat for help figuring out a gambling problem from a dice game.
+for example, pascal had been asked to solve a problem from a dice game: if a player has bet he can throw a 6 within eight throws of a single die, but the game is interrupted after 3 unsuccessful throws, what is the fairest way to share the stake money out?
+fermat solved the problems in a mathematically rigorous way by looking at the probabilities of all possible outcomes.
+fermat and pascal are today recognized as the co-founders of probability theory.
+fermat was able to derive snell’s law of refraction by assuming that light passes between two points in the least possible time. this is not the same as saying light takes the shortest path between two points, because it doesn’t. when it refracts, light changes direction. 
+fermat established the principle behind the change of light’s direction is that it takes the least possible time to make its journey.
+light changes direction when it moves into an optically denser medium. light travels more slowly in denser media. by changing direction, the light ray travels between a and b in the least possible time.
+fermat’s principle of least time led to one of the most important principles in modern physics – the principle of least action.
+number theory was fermat’s true love. he had a copy of arithmetica – a book by the great greek mathematician diophantus. arithmetica was published for the first time in (very approximately) the year 250 ad. this book inspired a great number of new ideas from fermat. he would use arithmetica much as a modern person might use a crossword puzzle or a game of sudoku, and he would scribble ideas in the margin of the book. these ideas transformed number theory.
+fermat had happily teased mathematicians in france and elsewhere with various theorems for decades. little did he know that something he scribbled in the margin of his copy of arithmetica would tease them for centuries. this tease became known as fermat’s last theorem.
+fermat’s most famous work – although actually less important than his work described above – is his so-called last theorem. fermat wrote his equation in words because he was not aware of thomas harriot’s invention of symbolic algebra. we shall use symbols:
+
+if n=2, we have pythagoras’s theorem, which has an infinite number of whole number solutions, the most famous example of which is the 3-4-5 triangle: x=3, y=4, z=5. 
+fermat’s last theorem claims that if n is a whole number bigger than 2, the equation has no whole number solutions for x, y and z. fermat himself left proof that he was correct for n=4. as a bonus, fermat’s proof of his theorem for n=4 meant that only cases where n was an odd number were left to tackle. fermat claimed to have proved it for all values of n, but famously said the margin of his book was too small to write his proof.
+written in 1637, it wasn’t actually his last theorem, but nobody knew about it until his son found it five years after fermat died. years later, after all of fermat’s other theorems had surrendered to mathematical proof, this remarkable theorem resisted all assaults.
+and so it came to be called his last theorem. famously, fermat wrote:
+since the theorem is easy to understand, many people, including great mathematicians such as leonhard euler and lejeune dirichlet, attempted in the decades and centuries following its publication to prove it. 
+however, probably the greatest mathematician of these years, carl friedrich gauss, was dismissive, writing:
+nevertheless, the fascination continued to tantalize mathematicians through the ages until andrew wiles, a professor of mathematics at princeton university, published his complete proof of the theorem in 1995. until wiles’s triumph, the problem had resisted all attempts to solve it for over 300 years.
+the great majority of mathematicians now believe fermat was mistaken in his belief he had discovered a proof… but there isn’t enough room on this page to say why! (actually, the mathematics required to solve the problem simply did not exist until the second half of the twentieth century.)
+pierre de fermat died aged 57 or 58, on january 12, 1665 in castres, france. 
+the cause of his death is not known. three days before his death, he had been carrying out legal business in the local courthouse. he was buried in the church of st. dominique in castres.
+author of this page: the doc
+images of pierre de fermat, thomas heath, marin mersenne, and carl friedrich gauss enhanced and colorized by this website.
+© all rights reserved. 
+please use the following mla compliant citation:
+“pierre de fermat.” famous scientists. famousscientists.org. 29 dec. 2014. web. 
+<!--
+var currenttime = new date()
+var month = currenttime.getmonth() + 1
+var day = currenttime.getdate()
+var year = currenttime.getfullyear()
+document.write(month + "/" + day + "/" + year)
+//--> 
+published by famousscientists.org
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+louis agassiz | maria gaetana agnesi | al-battaniabu nasr al-farabi | alhazen | jim al-khalili | muhammad ibn musa al-khwarizmi | mihailo petrovic alas | angel alcala | salim ali | luis alvarez | andre marie ampère | anaximander | carl anderson | mary anning | virginia apgar | archimedes | agnes arber | aristarchus | aristotle | svante arrhenius | oswald avery | amedeo avogadro | avicenna
+charles babbage | francis bacon | alexander bain | john logie baird | joseph banks | ramon barba | john bardeen | charles barkla | ibn battuta | william bayliss | george beadle | arnold orville beckman | henri becquerel | emil adolf behring | alexander graham bell | emile berliner | claude bernard | timothy john berners-lee | daniel bernoulli | jacob berzelius | henry bessemer | hans bethe | homi jehangir bhabha | alfred binet | clarence birdseye | kristian birkeland | elizabeth blackwell | alfred blalock | katharine burr blodgett | franz boas | david bohm | aage bohr | niels bohr | ludwig boltzmann | max born | carl bosch | robert bosch | jagadish chandra bose | satyendra nath bose | walther wilhelm georg bothe | robert boyle | lawrence bragg | tycho brahe | brahmagupta | hennig brand | georg brandt | wernher von braun | j harlen bretz | louis de broglie | alexander brongniart | robert brown | michael e. brown | lester r. brown | eduard buchner | linda buck | william buckland | georges-louis leclerc, comte de buffon | robert bunsen | luther burbank | jocelyn bell burnell | macfarlane burnet | thomas burnet
+benjamin cabrera | santiago ramon y cajal | rachel carson | george washington carver | henry cavendish | anders celsius | james chadwick | subrahmanyan chandrasekhar | erwin chargaff | noam chomsky | steven chu | leland clark | john cockcroft | arthur compton | nicolaus copernicus | gerty theresa cori | charles-augustin de coulomb | jacques cousteau | brian cox | francis crick | james croll | nicholas culpeper | marie curie | pierre curie | georges cuvier | adalbert czerny
+gottlieb daimler | john dalton | james dwight dana | charles darwin | humphry davy | peter debye | max delbruck | jean andre deluc | democritus | rené descartes | rudolf christian karl diesel | diophantus | paul dirac | prokop divis | theodosius dobzhansky | frank drake | k. eric drexler
+john eccles | arthur eddington | thomas edison | paul ehrlich | albert einstein | gertrude elion | empedocles | eratosthenes | euclid | leonhard euler
+michael faraday | pierre de fermat | enrico fermi | richard feynman | fibonacci – leonardo of pisa | emil fischer | ronald fisher | alexander fleming | john ambrose fleming | howard florey | henry ford | lee de forest | dian fossey | leon foucault | benjamin franklin | rosalind franklin | sigmund freud
+galen | galileo galilei | francis galton | luigi galvani | george gamow | martin gardner | carl friedrich gauss | murray gell-mann | sophie germain | willard gibbs | william gilbert | sheldon lee glashow | robert goddard | maria goeppert-mayer | thomas gold | jane goodall | stephen jay gould
+fritz haber | ernst haeckel | otto hahn | albrecht von haller | edmund halley | thomas harriot | william harvey | stephen hawking | otto haxel | werner heisenberg | hermann von helmholtz | jan baptist von helmont | joseph henry | caroline herschel | john herschel | william herschel | gustav ludwig hertz | heinrich hertz | karl f. herzfeld | george de hevesy | antony hewish | david hilbert | maurice hilleman | hipparchus | hippocrates | shintaro hirase | dorothy hodgkin | robert hooke | frederick gowland hopkins | william hopkins | grace murray hopper | frank hornby | jack horner | bernardo houssay | fred hoyle | edwin hubble | alexander von humboldt | zora neale hurston | james hutton | christiaan huygens | hypatia
+ernesto illy | ernst ising | keisuke ito
+mae carol jemison | edward jenner | j. hans d. jensen | irene joliot-curie | james prescott joule | percy lavon julian
+michio kaku | heike kamerlingh onnes | pyotr kapitsa | friedrich august kekulé | frances kelsey | pearl kendrick | johannes kepler | abdul qadeer khan | omar khayyam | alfred kinsey | gustav kirchoff | martin klaproth | robert koch | emil kraepelin | thomas kuhn | stephanie kwolek
+joseph-louis lagrange | jean-baptiste lamarck | hedy lamarr | edwin herbert land | karl landsteiner | pierre-simon laplace | max von laue | antoine lavoisier | ernest lawrence | henrietta leavitt | antonie van leeuwenhoek | inge lehmann | gottfried leibniz | georges lemaître | leonardo da vinci | niccolo leoniceno | aldo leopold | rita levi-montalcini | claude levi-strauss | willard frank libby | justus von liebig | carolus linnaeus | joseph lister | john locke | hendrik antoon lorentz | konrad lorenz | ada lovelace | percival lowell | lucretius | charles lyell | trofim lysenko
+ernst mach | marcello malpighi | jane marcet | guglielmo marconi | lynn margulis | matthew maury | james clerk maxwell | ernst mayr | barbara mcclintock | lise meitner | gregor mendel | dmitri mendeleev | franz mesmer | antonio meucci | john michell | albert abraham michelson | thomas midgeley jr. | milutin milankovic | maria mitchell | mario molina | thomas hunt morgan | samuel morse | henry moseley
+ukichiro nakaya | john napier | giulio natta | john needham | john von neumann | thomas newcomen | isaac newton | charles nicolle | florence nightingale | tim noakes | alfred nobel | emmy noether | christiane nusslein-volhard | bill nye
+hans christian oersted | georg ohm | j. robert oppenheimer | wilhelm ostwald | william oughtred
+blaise pascal | louis pasteur | wolfgang ernst pauli | linus pauling | randy pausch | ivan pavlov | cecilia payne-gaposchkin | wilder penfield | marguerite perey | william perkin | john philoponus | jean piaget | philippe pinel | max planck | pliny the elder | karl popper | beatrix potter | joseph priestley | proclus | claudius ptolemy | pythagoras
+adolphe quetelet | harriet quimby | thabit ibn qurra
+c. v. raman | srinivasa ramanujan | william ramsay | john ray | prafulla chandra ray | francesco redi | sally ride | bernhard riemann | wilhelm röntgen | hermann rorschach | ronald ross | ibn rushd | ernest rutherford
+carl sagan | abdus salam | jonas salk | frederick sanger | alberto santos-dumont | walter schottky | erwin schrödinger | theodor schwann | glenn seaborg | hans selye | charles sherrington | gene shoemaker | ernst werner von siemens | george gaylord simpson | b. f. skinner | william smith | frederick soddy | mary somerville | arnold sommerfeld | hermann staudinger | nicolas steno | nettie stevens | william john swainson | leo szilard
+niccolo tartaglia | edward teller | nikola tesla | thales of miletus | theon of alexandria | benjamin thompson | j. j. thomson | william thomson | henry david thoreau | kip s. thorne | clyde tombaugh | susumu tonegawa | evangelista torricelli | charles townes | youyou tu | alan turing | neil degrasse tyson
+harold urey
+craig venter | vladimir vernadsky | andreas vesalius | rudolf virchow | artturi virtanen | alessandro volta
+selman waksman | george wald | alfred russel wallace | john wallis | ernest walton | james watson | james watt | alfred wegener | john archibald wheeler | maurice wilkins | thomas willis | e. o. wilson | sven wingqvist | sergei winogradsky | carl woese | friedrich wöhler | wilbur and orville wright | wilhelm wundt
+chen-ning yang
+ahmed zewail
+
+return to top of page
+
+ famous scientists - privacy - contact - about - content & imagery © 2019 
+
+
