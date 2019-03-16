@@ -1,9 +1,10 @@
-import json
 import math
 import random
-from Vector import Vector
-from WebScraper import WebScraper
 from googlesearch import search
+
+from Vector import Vector
+
+from PD.WebScraper import WebScraper
 
 
 # Class of object that retrieves a collection of document to be used for analysis
@@ -43,7 +44,6 @@ class TextAnalyzer:
                 break
 
         print(len(self.collection_dict))
-
 
 
     def get_query_from_file(self):
@@ -109,9 +109,12 @@ class TextAnalyzer:
                 if match_index:
                     print("sentence {i} matches at: {positions}".format(i=i, positions=match_index))
 
-
-
     def get_scores_and_url(self):
+        """
+        Calculates the similarity scores between the query and documents, and returns a tuple (score, url)in reverse
+        sorted order, with the url that has the most similar text as the first element.
+        :return:
+        """
         scores = {}
         query_vector = self.calculate_query_vector()
         print(query_vector)
@@ -202,6 +205,13 @@ class TextAnalyzer:
 
     @staticmethod
     def hash_string(s, p, x):
+        """
+        Returns a hash value for a string using a polynomial hash function
+        :param s:
+        :param p:
+        :param x:
+        :return:
+        """
         h = 0
         for i in range(len(s) - 1, -1, -1):
             h = (h * x + ord(s[i])) % p

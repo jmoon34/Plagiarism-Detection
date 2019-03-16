@@ -1,4 +1,4 @@
-from TextAnalyzer import TextAnalyzer
+from PD.TextAnalyzer import TextAnalyzer
 tr = TextAnalyzer()
 tr.get_query_from_file()
 tr.get_collection_from_google()

@@ -1,7 +1,6 @@
-from requests import get
-from requests.exceptions import RequestException
-from contextlib import closing
-from bs4 import BeautifulSoup
+import requests
+import contextlib
+import bs4
 
 
 class WebScraper:
@@ -10,14 +9,14 @@ class WebScraper:
 
     def get_html(self):
         try:
-            with closing(get(self.url, stream=True)) as resp:
+            with contextlib.closing(requests.get(self.url, stream=True)) as resp:
                 if self.is_good_response(resp):
                     raw_html = resp.content
-                    return BeautifulSoup(raw_html, 'html.parser').find_all()
+                    return bs4.BeautifulSoup(raw_html, 'html.parser').find_all()
                 else:
                     return None
 
-        except RequestException as e:
+        except requests.exceptions.RequestException as e:
             self.log_error("Error during requests to {0} : {1}".format(self.url, str(e)))
 
     def extract_text(self):

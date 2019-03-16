@@ -1,6 +1,7 @@
-from unittest import TestCase
-from TextAnalyzer import TextAnalyzer
 import math
+from unittest import TestCase
+
+from PD.TextAnalyzer import TextAnalyzer
 
 
 class TestText(TestCase):

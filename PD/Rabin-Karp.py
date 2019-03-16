@@ -1,6 +1,14 @@
 import random
 import timeit
 
+"""
+Script for exploring the methods of searching for a phrase in a text
+
+The two main methods are naive() and rabin_karp().  Naive implements a brute force method and works in O(T*P), where
+T and P correspond to the length of the text and phrase respectively.  The Rabin-Karp algorithm uses a hash function
+with a prime number designed to make the probability of collision <= 1/(10^6).  By using precomputation of hash values
+of the text, this algorithm has runtime closer to O(T+P).
+"""
 
 def get_big_prime(max_length):
     """

@@ -1,6 +1,7 @@
-from unittest import TestCase
-from Vector import Vector
 import math
+from unittest import TestCase
+
+from PD.Vector import Vector
 
 
 class TestVector(TestCase):
