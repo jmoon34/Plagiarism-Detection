@@ -15,18 +15,36 @@ class TextAnalyzer:
         # collection_dict structure: {text: url}
         self.collection_dict = {}
 
-    def get_collection_from_google(self):
+    def get_collection_from_google(self, num_collection=5):
         """
         Generates the collection of texts from the URL's using the first 32 words
         :return:
         """
         query_32_list = self.query_list[:32]
         query_32 = " ".join(query_32_list)
-        for url in search(query_32, tld='com', lang='en', num=5, stop=2, pause=2):
+        collection_index = 1
+        for url in search(query_32, tld='com', lang='en', num=20, stop=2, pause=2):
             print(url)
             web_scraper = WebScraper(url)
-            self.collection_dict[web_scraper.extract_text()] = url
-        print("collection_dict size:", len(self.collection_dict))
+            text = web_scraper.extract_text()
+            if text != "":
+                try:
+                    with open("Texts/Collection_" + str(collection_index) + ".txt", 'w') as f:
+                        f.write(url + "\n\n")
+                        f.write(text)
+                except UnicodeEncodeError:
+                    pass
+                collection_index += 1
+            self.collection_dict[text] = url
+            if "" in self.collection_dict and len(self.collection_dict) == num_collection + 1:
+                self.collection_dict.pop("")
+                break
+            elif "" not in self.collection_dict and len(self.collection_dict) == num_collection:
+                break
+
+        print(len(self.collection_dict))
+
+
 
     def get_query_from_file(self):
         """
@@ -36,8 +54,6 @@ class TextAnalyzer:
         with open(self.query_file_name, 'r') as f:
             self.query_str = f.read().lower()
         self.query_list = self.query_str.split(' ')
-        print("query list: ", end="")
-        print(self.query_list)
 
     def precompute_hashes(self, text, phrase_len, p, x):
         """
@@ -75,23 +91,30 @@ class TextAnalyzer:
         return result
 
     def run_rabin_karp(self):
-        i = 0
         for text in self.collection_dict:
-            with open("Texts/collection" + str(i) + ".txt", 'w') as f:
-                f.write(text)
-                f.write("\n\n")
             match_index = self.rabin_karp(text, self.query_str)
             if match_index:
                 print("Matching text found in url:", self.collection_dict[text])
                 print("At position:", match_index)
-            i += 1
 
+    def sentence_rabin_karp(self):
+        """
+        Splits the query into sentences to allow for finer searches using the Rabin-Karp algorithm
+        :return:
+        """
+        sentences = self.query_str.split(". ")
+        for i in range(len(sentences)):
+            for text in self.collection_dict:
+                match_index = self.rabin_karp(text, sentences[i])
+                if match_index:
+                    print("sentence {i} matches at: {positions}".format(i=i, positions=match_index))
 
 
 
     def get_scores_and_url(self):
         scores = {}
         query_vector = self.calculate_query_vector()
+        print(query_vector)
         for document in self.collection_dict:
             doc_vector = self.calculate_doc_vector(document)
             document_score = query_vector.dot_product(doc_vector)
@@ -128,7 +151,7 @@ class TextAnalyzer:
         :param term:
         :return:
         """
-        df = 1
+        df = 0
         for text in self.collection_dict:
             if term in text:
                 df += 1

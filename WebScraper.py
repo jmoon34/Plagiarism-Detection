@@ -43,11 +43,4 @@ class WebScraper:
     def log_error(e):
         print(e)
 
-w = WebScraper("https://www.storyofmathematics.com/17th_fermat.html")
-soup = w.get_html()
 
-with open("Texts/paragraph.txt", 'w') as f:
-    for tag in soup:
-        if tag.name == 'p' and tag.parent.name != 'p':
-            f.write(tag.text)
-            f.write("\n")
