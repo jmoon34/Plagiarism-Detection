@@ -1,15 +1,13 @@
 import math
 import random
 from googlesearch import search
-
-from Vector import Vector
-
+from PD.Vector import Vector
 from PD.WebScraper import WebScraper
 
 
 # Class of object that retrieves a collection of document to be used for analysis
 class TextAnalyzer:
-    def __init__(self, query_file_name="Texts/GoogleQuery.txt"):
+    def __init__(self, query_file_name="../Texts/GoogleQuery.txt"):
         self.query_file_name = query_file_name
         self.query_list = []
         self.query_str = ""
@@ -30,7 +28,7 @@ class TextAnalyzer:
             text = web_scraper.extract_text()
             if text != "":
                 try:
-                    with open("Texts/Collection_" + str(collection_index) + ".txt", 'w') as f:
+                    with open("../Texts/Collection_" + str(collection_index) + ".txt", 'w') as f:
                         f.write(url + "\n\n")
                         f.write(text)
                 except UnicodeEncodeError:
