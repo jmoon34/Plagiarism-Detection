@@ -45,7 +45,7 @@ pandocfilters==1.4.1
 path.py==10.3.1
 pep8==1.7.0
 ply==3.10
-psutil==5.2.2
+psutil==5.6.6
 py==1.4.33
 pycosat==0.6.2
 pycparser==2.17
