@@ -4,7 +4,7 @@ beautifulsoup4==4.6.0
 bitarray==0.8.1
 boto==2.46.1
 bz2file==0.98
-certifi==2018.8.24
+certifi==2022.12.7
 chardet==3.0.3
 click==6.7
 cloudpickle==0.2.2
